@@ -229,12 +229,15 @@ h3 {
 }
 
 .navbar-default .navbar-collapse>ul {
-    width: 60%;
-    min-width: 30%;
+    /* width: 60%;
+    min-width: 30%; */
+    width: 40%;
+    min-width: 20%;
 }
 
 .navbar-default .navbar-collapse>ul>li {
-    width: 30%;
+    /* width: 30%; */
+    width: 40%;
 }
 
 .navbar-default .navbar-nav>li>a {
